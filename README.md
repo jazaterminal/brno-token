@@ -4,7 +4,7 @@ BRNO is a digital asset designed to commemorate visits to Brno, Czech Republic. 
 ## Token Information
 - **Blockchain**: Ethereum (ERC-20)
 - **Token Supply**: 1,000,000 BRNO
-- **Smart Contract**: [Etherscan link] (replace with contract address)
+- **Smart Contract**: 0x738730936a58DB24Ce7E65C8D99E78cE5Fc3249C ((https://etherscan.io/address/0x738730936a58db24ce7e65c8d99e78ce5fc3249c))
 - **Use Cases**:
   - Proof of Visit: Each BRNO represents a verified visit to Brno
   - Exclusive Perks: Discounts at participating local businesses and attractions
